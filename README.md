@@ -56,7 +56,7 @@ Verwenden Sie die beste Methode für Ihre Iterationen?
 - Testen Sie das Laden des Javaskripts in den Kopf im Vergleich zum Ende des Körpers. Welche Probleme treten auf? 
 - Gibt es eine Möglichkeit, den Kopf noch zu laden, ohne die Seite zu beschädigen? 
 - Wie ist die Leistung im Vergleich zur Belastung am Ende des Körpers?
-- 
+ 
 9. Vorgeschläge:
 - Fügen Sie Ihren Navigationselementen einen aktiven Status hinzu, wenn sich ein Abschnitt im Ansichtsfenster befindet.
 - Blenden Sie die feste Navigationsleiste aus, während Sie nicht scrollen (sie sollte beim Laden der Seite noch vorhanden sein).
